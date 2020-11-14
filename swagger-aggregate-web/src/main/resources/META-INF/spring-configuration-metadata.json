@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "swagger-aggregate",
+      "type": "io.github.tanghuibo.swaggeraggregateweb.properties.SwaggerAggregateProperties",
+      "sourceType": "io.github.tanghuibo.swaggeraggregateweb.properties.SwaggerAggregateProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger-aggregate.resources",
+      "type": "java.util.List<io.github.tanghuibo.swaggeraggregateweb.properties.SwaggerAggregateResourceProperties>",
+      "description": "资源信息",
+      "sourceType": "io.github.tanghuibo.swaggeraggregateweb.properties.SwaggerAggregateProperties"
+    }
+  ],
+  "hints": []
+}

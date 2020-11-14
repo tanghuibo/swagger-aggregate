@@ -5,6 +5,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import java.util.List;
 
 /**
+ * swagger 聚合文档配置
  * @author tanghuibo
  * @date 2020/11/12下午11:37
  */
