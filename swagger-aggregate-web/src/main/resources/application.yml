@@ -1,12 +1,11 @@
-
 swagger-aggregate:
   resources:
-    - name: test1
-      url: http://127.0.0.1:8081/v2/api-docs
+    - name: testV2
+      url: http://127.0.0.1:8082/v2/api-docs
       version: 2.0
-    - name: test2
-      url: http://127.0.0.1:8082/v3/api-docs
-      version: 3.0
+    - name: testV3
+      url: http://127.0.0.1:8083/v3/api-docs
+      version: 3.0.3
 
 
 

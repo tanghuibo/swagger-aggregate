@@ -21,6 +21,8 @@
 
 	<modules>
 		<module>./swagger-aggregate-web</module>
+		<module>./swagger-test-v2</module>
+		<module>./swagger-test-v3</module>
 	</modules>
 
 </project>
